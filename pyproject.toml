@@ -33,7 +33,6 @@ types-six = "^0.1.6"
 types-requests = "^0.1.11"
 h5py = "^3.3.0"
 laspy = "^2.0.3"
-torch-points-kernel = { git = "ssh://git@github.com:mariusud/torch-points-kernels.git", branch = "master" }
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.4"
